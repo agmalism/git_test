@@ -2,5 +2,3 @@
 Learning git from The Odin Project
 
 Hello Odin!
-
-test
